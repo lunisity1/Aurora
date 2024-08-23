@@ -1,0 +1,5 @@
+name: Aurora
+version: '${project.version}'
+main: dev.lunisity.aurora.Aurora
+api-version: '1.20'
+load: POSTWORLD
